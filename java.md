@@ -406,12 +406,6 @@ spring
 
   - <https://github.com/spring-projects/spring-data-mongodb>
 
-- neo4j
-
-  - <http://docs.spring.io/spring-data/data-neo4j/docs/current/reference/html/>
-
-  - <https://github.com/spring-projects/spring-data-neo4j>
-
 - portal
 
   - <https://github.com/spring-guides>
