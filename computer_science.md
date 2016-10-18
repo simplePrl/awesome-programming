@@ -6,6 +6,10 @@ algorithm
 
 - <https://en.wikipedia.org/wiki/List_of_data_structures>
 
+data_mining
+
+- <http://web.stanford.edu/class/cs246/>
+
 database
 
 - <http://web.stanford.edu/class/cs145/>
