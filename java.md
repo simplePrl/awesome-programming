@@ -246,6 +246,8 @@ natural_language
 
 - <http://lucene.apache.org/solr/>
 
+- <http://nlp.stanford.edu/software/>
+
 - <http://opennlp.apache.org/>
 
 - <http://pinyin4j.sourceforge.net/>
@@ -289,8 +291,6 @@ natural_language
 - <https://github.com/NLPchina/Word2VEC_java>
 
 - <https://github.com/shuyo/language-detection>
-
-- <https://github.com/stanfordnlp/CoreNLP>
 
 - <https://github.com/optimaize/language-detector>
 
