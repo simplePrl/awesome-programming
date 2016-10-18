@@ -246,8 +246,6 @@ natural_language
 
 - <http://lucene.apache.org/solr/>
 
-- <http://nlp.stanford.edu/software/>
-
 - <http://opennlp.apache.org/>
 
 - <http://pinyin4j.sourceforge.net/>
@@ -293,6 +291,8 @@ natural_language
 - <https://github.com/shuyo/language-detection>
 
 - <https://github.com/optimaize/language-detector>
+
+- <https://github.com/stanfordnlp/CoreNLP>
 
 network
 
