@@ -1,6 +1,10 @@
-linux
+automate
 
-- <http://tldp.org/>
+- <https://saltstack.com/>
+
+- <https://www.ansible.com/>
+
+- <https://www.chef.io/>
 
 git
 
@@ -12,11 +16,9 @@ git
 
 - <https://help.github.com/>
 
-vim
+linux
 
-- <http://vim.wikia.com/wiki/Vim_documentation>
-
-- <http://www.vim.org/>
+- <http://tldp.org/>
 
 monitor
 
@@ -31,3 +33,9 @@ monitor
 - <http://www.zabbix.com/>
 
 - <http://www.zenoss.com/>
+
+vim
+
+- <http://vim.wikia.com/wiki/Vim_documentation>
+
+- <http://www.vim.org/>
