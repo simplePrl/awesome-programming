@@ -4,12 +4,6 @@ algorithm
 
 - <https://github.com/rockymadden/stringmetric>
 
-application
-
-- <http://www.lightbend.com/activator/templates>
-
-- <https://github.com/openforce/spark-mllib-scala-play>
-
 authentication
 
 - <https://github.com/jaliss/securesocial>
