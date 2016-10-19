@@ -36,13 +36,9 @@ information_retrieval
 
 machine_learning
 
-- <http://cs224d.stanford.edu/>
-
 - <http://cs229.stanford.edu/>
 
 - <http://cs231n.stanford.edu/>
-
-- <http://web.stanford.edu/class/cs224n/>
 
 - <http://www.cs.nyu.edu/~mohri/aml16/>
 
@@ -55,6 +51,20 @@ mathematics
 - <https://en.wikipedia.org/wiki/List_of_mathematical_symbols_by_subject>
 
 - <https://en.wikipedia.org/wiki/Lists_of_mathematics_topics>
+
+natural_language
+
+- <http://cs224d.stanford.edu/>
+
+- <http://web.stanford.edu/class/cs124/>
+
+- <http://web.stanford.edu/class/cs224n/>
+
+- <http://web.stanford.edu/class/cs224s/>
+
+- <http://web.stanford.edu/class/cs224u/>
+
+- <http://web.stanford.edu/class/cs424p/>
 
 physics
 
