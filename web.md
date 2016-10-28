@@ -20,6 +20,18 @@ browser_support
 
 - <http://modernizr.com/>
 
+canvas
+
+- <https://github.com/CreateJS/EaselJS>
+
+- <https://github.com/kangax/fabric.js>
+
+- <https://github.com/nnnick/Chart.js>
+
+- <https://github.com/paperjs/paper.js>
+
+- <https://github.com/pixijs/pixi.js>
+
 cassandra
 
 - <https://github.com/datastax/nodejs-driver>
@@ -87,18 +99,6 @@ faker
 framework
 
 - <https://github.com/75team/thinkjs>
-
-graphics
-
-- <https://github.com/CreateJS/EaselJS>
-
-- <https://github.com/kangax/fabric.js>
-
-- <https://github.com/nnnick/Chart.js>
-
-- <https://github.com/paperjs/paper.js>
-
-- <https://github.com/pixijs/pixi.js>
 
 history
 
@@ -248,6 +248,8 @@ nodejs
 
 - <https://github.com/v8/v8>
 
+- <https://github.com/yarnpkg/yarn>
+
 - <https://nodejs.org/>
 
 - <https://www.npmjs.com/>
@@ -286,6 +288,8 @@ react
 
 - <https://github.com/facebook/relay>
 
+- <https://github.com/Flipboard/react-canvas>
+
 - <https://github.com/FormidableLabs/radium>
 
 - <https://github.com/gaearon/redux-devtools>
@@ -299,6 +303,8 @@ react
 - <https://github.com/MicheleBertoli/css-in-js>
 
 - <https://github.com/nfl/react-helmet>
+
+- <https://github.com/ProjectSeptemberInc/gl-react>
 
 - <https://github.com/react-bootstrap/react-bootstrap>
 
@@ -410,6 +416,8 @@ tutorial
 
 - <https://developer.mozilla.org/en-US/docs/Web>
 
+- <https://github.com/bebraw/jswiki>
+
 - <https://github.com/brillout/awesome-react-components>
 
 - <https://github.com/enaqx/awesome-react>
@@ -443,6 +451,46 @@ video_player
 - <http://www.jwplayer.com/>
 
 - <https://github.com/jackzhang1204/sewise-player>
+
+webgl
+
+- <https://github.com/BabylonJS/Babylon.js>
+
+- <https://github.com/brianchirls/Seriously.js>
+
+- <https://github.com/evanw/glfx.js>
+
+- <https://github.com/evanw/lightgl.js>
+
+- <https://github.com/evanw/webgl-filter>
+
+- <https://github.com/greggman/twgl.js>
+
+- <https://github.com/jagenjo/webglstudio.js>
+
+- <https://github.com/jcoglan/sylvester>
+
+- <https://github.com/mapbox/mapbox-gl-js>
+
+- <https://github.com/mrdoob/three.js>
+
+- <https://github.com/Netflix/vizceral>
+
+- <https://github.com/photonstorm/phaser>
+
+- <https://github.com/PixelsCommander/HTML-GL>
+
+- <https://github.com/playcanvas/engine>
+
+- <https://github.com/pyalot/webgl-heatmap>
+
+- <https://github.com/schteppe/cannon.js>
+
+- <https://github.com/thomasxiii/photon>
+
+- <https://github.com/toji/gl-matrix>
+
+- <https://github.com/xeolabs/scenejs>
 
 websocket
 
