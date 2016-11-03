@@ -1,4 +1,10 @@
-cloud_provider
+bigdata
+
+- <http://www.cloudera.com/>
+
+- <https://databricks.com/>
+
+cloud
 
 - <http://www.lecloud.com/>
 

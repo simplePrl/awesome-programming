@@ -80,6 +80,10 @@ configuration
 
 - <https://github.com/lviggiano/owner>
 
+crawler
+
+- <https://nutch.apache.org/>
+
 dependency_injection
 
 - <https://github.com/google/guice>
