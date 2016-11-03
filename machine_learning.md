@@ -14,6 +14,8 @@ caffe
 
 - <https://github.com/ShaoqingRen/faster_rcnn>
 
+- <https://github.com/yahoo/CaffeOnSpark>
+
 dataset
 
 - <http://archive.ics.uci.edu/ml/>
@@ -44,6 +46,12 @@ dataset
 
 - <https://sites.google.com/site/hitmwdb/>
 
+deeplearning4j
+
+- <https://github.com/deeplearning4j/deeplearning4j>
+
+- <https://github.com/tmbo/deep-nlp-scala>
+
 dmlc
 
 - <https://github.com/dmlc/dmlc-core>
@@ -54,57 +62,13 @@ dmlc
 
 - <https://github.com/dmlc/xgboost>
 
-hadoop
+microsoft
 
-- <http://bigtop.apache.org/>
+- <https://github.com/Microsoft/CNTK>
 
-- <http://cassandra.apache.org/>
+- <https://github.com/Microsoft/DMTK>
 
-- <http://crunch.apache.org/>
-
-- <http://flink.apache.org/>
-
-- <http://flume.apache.org/>
-
-- <http://giraph.apache.org/>
-
-- <http://gora.apache.org/>
-
-- <http://hadoop.apache.org/>
-
-- <http://hbase.apache.org/>
-
-- <http://hive.apache.org/>
-
-- <http://mahout.apache.org/>
-
-- <http://oozie.apache.org/>
-
-- <http://parquet.apache.org/>
-
-- <http://pig.apache.org/>
-
-- <http://samza.apache.org/>
-
-- <http://sqoop.apache.org/>
-
-- <http://www.alluxio.org/>
-
-- <http://www.cascading.org/>
-
-- <http://www.cloudera.com/>
-
-- <http://zeppelin.apache.org/>
-
-- <http://zookeeper.apache.org/>
-
-- <https://github.com/azkaban/azkaban>
-
-- <https://github.com/linkedin/gobblin>
-
-- <https://github.com/onurakpolat/awesome-bigdata>
-
-- <https://tez.apache.org/>
+- <https://github.com/Microsoft/LightGBM>
 
 misc
 
@@ -128,43 +92,9 @@ misc
 
 - <https://github.com/shogun-toolbox/shogun>
 
-spark
-
-- <http://spark-packages.org/>
-
-- <http://spark.apache.org/>
-
-- <https://databricks.com/>
+tensorflow
 
 - <https://github.com/adatao/tensorspark>
-
-- <https://github.com/amplab/keystone>
-
-- <https://github.com/amplab/spark-indexedrdd>
-
-- <https://github.com/amplab/SparkNet>
-
-- <https://github.com/amplab/succinct>
-
-- <https://github.com/amplab/velox-modelserver>
-
-- <https://github.com/andypetrella/spark-notebook>
-
-- <https://github.com/apache/incubator-predictionio>
-
-- <https://github.com/datastax/spark-cassandra-connector>
-
-- <https://github.com/deeplearning4j/deeplearning4j>
-
-- <https://github.com/rotationsymmetry/sparkxgboost>
-
-- <https://github.com/sjyk/sampleclean-async>
-
-- <https://github.com/tmbo/deep-nlp-scala>
-
-- <https://github.com/yahoo/CaffeOnSpark>
-
-tensorflow
 
 - <https://github.com/aymericdamien/TensorFlow-Examples>
 

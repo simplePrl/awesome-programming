@@ -1,213 +1,127 @@
-caffe
+data_ingestion
 
-- <https://github.com/BVLC/caffe>
+- <http://flume.apache.org/>
 
-- <https://github.com/facebook/fb-caffe-exts>
+- <http://kafka.apache.org/>
 
-- <https://github.com/NVIDIA/caffe>
+- <https://github.com/linkedin/gobblin>
 
-- <https://github.com/pannous/caffe-ocr>
+distributed
 
-- <https://github.com/rbgirshick/caffe-fast-rcnn>
+- <http://curator.apache.org/>
 
-- <https://github.com/rbgirshick/py-faster-rcnn>
+- <http://helix.apache.org/>
 
-- <https://github.com/ShaoqingRen/faster_rcnn>
+- <http://zookeeper.apache.org/>
 
-- <https://github.com/yahoo/CaffeOnSpark>
+- <https://github.com/Netflix/exhibitor>
 
-dataset
+file_format
 
-- <http://archive.ics.uci.edu/ml/>
+- <http://avro.apache.org/>
 
-- <http://groups.csail.mit.edu/vision/SUN/>
+- <http://parquet.apache.org/>
 
-- <http://image-net.org/>
+graph
 
-- <http://ufldl.stanford.edu/housenumbers/>
+- <http://giraph.apache.org/>
 
-- <http://vis-www.cs.umass.edu/fddb/>
+- <http://spark.apache.org/graphx/>
 
-- <http://vis-www.cs.umass.edu/lfw/>
+- <http://tinkerpop.apache.org/>
 
-- <http://wiki.dbpedia.org/>
+- <https://github.com/thinkaurelius/titan>
 
-- <http://wordnet.princeton.edu/>
+hadoop
 
-- <http://www.cs.toronto.edu/~kriz/cifar.html>
+- <http://bigtop.apache.org/>
 
-- <http://www.nlpr.ia.ac.cn/databases/handwriting/Home.html>
+- <http://gora.apache.org/>
 
-- <http://www.sogou.com/labs/>
+- <http://hadoop.apache.org/>
 
-- <http://yann.lecun.com/exdb/mnist/>
+- <http://pig.apache.org/>
 
-- <https://en.wikipedia.org/wiki/List_of_datasets_for_machine_learning_research>
+machine_learning
 
-- <https://sites.google.com/site/hitmwdb/>
+- <http://mahout.apache.org/>
 
-deeplearning4j
+- <http://spark.apache.org/mllib/>
 
-- <https://github.com/deeplearning4j/deeplearning4j>
+search
 
-- <https://github.com/tmbo/deep-nlp-scala>
+- <http://lucene.apache.org/solr/>
 
-dmlc
+- <https://www.elastic.co/>
 
-- <https://github.com/dmlc/dmlc-core>
+spark
 
-- <https://github.com/dmlc/mshadow>
+- <http://spark-packages.org/>
 
-- <https://github.com/dmlc/mxnet>
+- <http://spark.apache.org/>
 
-- <https://github.com/dmlc/xgboost>
+- <https://github.com/amplab/keystone>
 
-microsoft
+- <https://github.com/amplab/spark-indexedrdd>
 
-- <https://github.com/Microsoft/CNTK>
+- <https://github.com/amplab/SparkNet>
 
-- <https://github.com/Microsoft/DMTK>
+- <https://github.com/amplab/succinct>
 
-- <https://github.com/Microsoft/LightGBM>
+- <https://github.com/amplab/velox-modelserver>
 
-misc
+- <https://github.com/andypetrella/spark-notebook>
 
-- <https://github.com/amznlabs/amazon-dsstne>
+- <https://github.com/apache/incubator-predictionio>
 
-- <https://github.com/beniz/deepdetect>
+- <https://github.com/datastax/spark-cassandra-connector>
 
-- <https://github.com/BIDData/BIDMach>
+- <https://github.com/rotationsymmetry/sparkxgboost>
 
-- <https://github.com/dnouri/nolearn>
+- <https://github.com/sjyk/sampleclean-async>
 
-- <https://github.com/haifengl/smile>
+storage
 
-- <https://github.com/mlpack/mlpack>
+- <http://accumulo.apache.org/>
 
-- <https://github.com/openai/gym>
+- <http://cassandra.apache.org/>
 
-- <https://github.com/pfnet/chainer>
+- <http://hbase.apache.org/>
 
-- <https://github.com/scikit-learn/scikit-learn>
+- <http://www.alluxio.org/>
 
-- <https://github.com/shogun-toolbox/shogun>
+streaming
 
-tensorflow
+- <http://flink.apache.org/>
 
-- <https://github.com/adatao/tensorspark>
+- <http://samza.apache.org/>
 
-- <https://github.com/aymericdamien/TensorFlow-Examples>
+- <http://spark.apache.org/streaming/>
 
-- <https://github.com/ethereon/caffe-tensorflow>
+structured_data
 
-- <https://github.com/jtoy/awesome-tensorflow>
+- <http://hive.apache.org/>
 
-- <https://github.com/matthewearl/deep-anpr>
+- <http://spark.apache.org/sql/>
 
-- <https://github.com/nlintz/TensorFlow-Tutorials>
-
-- <https://github.com/pkmital/tensorflow_tutorials>
-
-- <https://github.com/tensorflow/models>
-
-- <https://github.com/tensorflow/playground>
-
-- <https://github.com/tensorflow/serving>
-
-- <https://github.com/tensorflow/skflow>
-
-- <https://github.com/tensorflow/tensorflow>
-
-- <https://github.com/tflearn/tflearn>
-
-theano
-
-- <https://github.com/fchollet/keras>
-
-- <https://github.com/Lasagne/Lasagne>
-
-- <https://github.com/lisa-lab/DeepLearningTutorials>
-
-- <https://github.com/maxpumperla/elephas>
-
-- <https://github.com/mila-udem/blocks>
-
-- <https://github.com/mila-udem/platoon>
-
-- <https://github.com/Theano/Theano>
-
-- <https://github.com/uoguelph-mlrg/Theano-MPI>
-
-torch
-
-- <https://github.com/cmusatyalab/openface>
-
-- <https://github.com/deepmind/torch-hdf5>
-
-- <https://github.com/Element-Research/rnn>
-
-- <https://github.com/facebook/fb.resnet.torch>
-
-- <https://github.com/facebook/fbcunn>
-
-- <https://github.com/facebook/fbnn>
-
-- <https://github.com/jcjohnson/neural-style>
-
-- <https://github.com/jcjohnson/torch-rnn>
-
-- <https://github.com/karpathy/char-rnn>
-
-- <https://github.com/macournoyer/neuralconvo>
-
-- <https://github.com/soumith/cudnn.torch>
-
-- <https://github.com/soumith/dcgan.torch>
-
-- <https://github.com/szagoruyko/loadcaffe>
-
-- <https://github.com/torch/cunn>
-
-- <https://github.com/torch/cutorch>
-
-- <https://github.com/torch/demos>
-
-- <https://github.com/torch/optim>
-
-- <https://github.com/torch/torch7>
-
-- <https://github.com/torchnet/torchnet>
-
-- <https://github.com/twitter/torch-autograd>
-
-- <https://github.com/VisionLabs/torch-opencv>
+- <http://sqoop.apache.org/>
 
 tutorial
 
-- <http://deeplearning.net/tutorial/>
+- <https://github.com/onurakpolat/awesome-bigdata>
 
-- <http://neuralnetworksanddeeplearning.com/>
+visualization
 
-- <http://www.deeplearningbook.org/>
+- <http://zeppelin.apache.org/>
 
-- <https://github.com/andrewt3000/DL4NLP>
+workflow
 
-- <https://github.com/ChristosChristofidis/awesome-deep-learning>
+- <http://crunch.apache.org/>
 
-- <https://github.com/donnemartin/data-science-ipython-notebooks>
+- <http://oozie.apache.org/>
 
-- <https://github.com/edobashira/speech-language-processing>
+- <http://www.cascading.org/>
 
-- <https://github.com/jbhuang0604/awesome-computer-vision>
+- <https://github.com/azkaban/azkaban>
 
-- <https://github.com/josephmisiti/awesome-machine-learning>
-
-- <https://github.com/kjw0612/awesome-deep-vision>
-
-- <https://github.com/kjw0612/awesome-rnn>
-
-- <https://github.com/sjchoi86/Deep-Learning-101>
-
-- <https://github.com/szwed/awesome-machine-learning-python>
-
-- <https://github.com/ujjwalkarn/Machine-Learning-Tutorials>
+- <https://tez.apache.org/>
