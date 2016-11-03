@@ -88,9 +88,9 @@ spark
 
 storage
 
-- <http://accumulo.apache.org/>
-
 - <http://cassandra.apache.org/>
+
+- <http://ceph.com/>
 
 - <http://hbase.apache.org/>
 
