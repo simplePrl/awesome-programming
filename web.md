@@ -112,8 +112,7 @@ html
 
 - <https://github.com/tmpvar/jsdom>
 
-- <http>
-  </http>
+http
 
 - <https://github.com/github/fetch>
 
