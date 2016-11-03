@@ -126,6 +126,8 @@ package_manager
 
 - <http://www.pip-installer.org/>
 
+- <https://www.continuum.io/>
+
 portal
 
 - <https://www.python.org/>
@@ -159,6 +161,10 @@ test
 tutorial
 
 - <https://github.com/vinta/awesome-python>
+
+visualization
+
+- <https://jupyter.org/>
 
 web_framework
 
