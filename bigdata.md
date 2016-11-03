@@ -42,11 +42,15 @@ hadoop
 
 - <http://pig.apache.org/>
 
+- <http://www.cloudera.com/>
+
 machine_learning
 
 - <http://mahout.apache.org/>
 
 - <http://spark.apache.org/mllib/>
+
+- <https://turi.com/>
 
 search
 
@@ -59,6 +63,8 @@ spark
 - <http://spark-packages.org/>
 
 - <http://spark.apache.org/>
+
+- <https://databricks.com/>
 
 - <https://github.com/amplab/keystone>
 
@@ -89,6 +95,8 @@ storage
 - <http://hbase.apache.org/>
 
 - <http://www.alluxio.org/>
+
+- <http://www.datastax.com/>
 
 streaming
 
